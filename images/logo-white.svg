@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <!-- FUZYA 文字 -->
+  <text x="300" y="90" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="5">FUZYA</text>
+  <!-- 富滋雅｜家居 文字 -->
+  <text x="300" y="150" font-family="SimSun, serif" font-size="32" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">富滋雅｜家居</text>
+</svg>
